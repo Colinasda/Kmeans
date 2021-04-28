@@ -1,6 +1,8 @@
-[TOC]
-
-*ID: 20092616g 		Name:  ZHAO Zihao*
+- [Q3 Specific Process](#q3-specific-process)
+  - [Step1.  Read the csv file](#step1--read-the-csv-file)
+  - [Step2.  Calculate the distance](#step2--calculate-the-distance)
+  - [Step3.  10 episode training](#step3--10-episode-training)
+  - [Step4.  Print the new central points](#step4--print-the-new-central-points)
 
 > Note: The environment is jupyter notebook (python).
 
