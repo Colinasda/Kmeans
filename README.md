@@ -1,12 +1,18 @@
-- [Q3 Specific Process](#q3-specific-process)
-  - [Step1.  Read the csv file](#step1--read-the-csv-file)
-  - [Step2.  Calculate the distance](#step2--calculate-the-distance)
-  - [Step3.  10 episode training](#step3--10-episode-training)
-  - [Step4.  Print the new central points](#step4--print-the-new-central-points)
 
-> Note: The environment is jupyter notebook (python).
 
-## Q3 Specific Process
+- [Kmeans](#kmeans)
+  - [Problem](#problem)
+  - [Specific Process](#specific-process)
+    - [Step1.  Read the csv file](#step1--read-the-csv-file)
+    - [Step2.  Calculate the distance](#step2--calculate-the-distance)
+    - [Step3.  10 episode training](#step3--10-episode-training)
+    - [Step4.  Print the new central points](#step4--print-the-new-central-points)
+# Kmeans
+
+## Problem
+Applying the Kmeans into dataset and draw the clustering result
+
+## Specific Process
 
 ### Step1.  Read the csv file
 
